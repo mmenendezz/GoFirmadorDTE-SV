@@ -29,3 +29,4 @@ type BodyMensaje struct {
 	Codigo  string      `json:"codigo"`
 	Mensaje interface{} `json:"mensaje"`
 }
+// Change
